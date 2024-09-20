@@ -96,7 +96,7 @@
 <body>
 
     <div class="form-container">
-        <h1>Welcome Home</h1>
+        <h1>Synthetic welcome </h1>
         <form method="POST" action="">
             <label for="name">Full Name:</label>
             <input type="text" id="name" name="name" required>
