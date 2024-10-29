@@ -1,6 +1,6 @@
 # E-Learning System for Kabale Brainstorm High School
 
-### Developed by: Baho Derrick
+### Developed by: Abaho Derrick
 *Bachelor's of Information Technology, Kabale University*
 
 ---
